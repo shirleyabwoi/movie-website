@@ -1,6 +1,4 @@
 "use client";
-import { useState } from "react";
-import useFetchMovies from "@/app/hooks/useFetchMovies";
 import Link from 'next/link';
 
 
